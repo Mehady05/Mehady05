@@ -1,7 +1,7 @@
 ![Front-end developer using MERN aslo design the website](https://pbs.twimg.com/profile_banners/1390259740895158273/1629864054/1500x500)
 
 ### Hi there 👋, I am Mehady Hasan
-#### I am a Front-end developer using MERN and aslo a web designer
+#### I am a Front-end developer using MERN and a web designer
 
 I am Mehady from Bangladesh, and I do content on Design and Development website. I really enjoy learning languages and frameworks like React and React Native, as well as work in MERN. I also enjoy designing the website cause I am also a website designer.
 
