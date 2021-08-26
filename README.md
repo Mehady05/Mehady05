@@ -7,18 +7,18 @@ I am Mehady from Bangladesh, and I do content on Design and Development website.
 
 ### Skills:  
 
--C
--C++
--REACTJS  
--Java Script
--HTML
--CSS
--NODE
--MONGODB
--FIREBASE
--Boostrap
--Material UI
--Tailwind CSS
+- C
+- C++
+- REACTJS  
+- Java Script
+- HTML
+- CSS
+- NODE
+- MONGODB
+- FIREBASE
+- Boostrap
+- Material UI
+- Tailwind CSS
 
 
 ### Experience: 3 Years of Design and Development.
