@@ -1,18 +1,19 @@
 ![Front-end developer using MERN aslo design the website](https://pbs.twimg.com/profile_banners/1390259740895158273/1629864054/1500x500)
 
 ### Hi there 👋, I am Mehady Hasan
-#### I am a Front-end developer using MERN and a web designer
+#### I am a Front-end developer using MERN and also a web designer.
 
 I am Mehady from Bangladesh, and I do content on Design and Development website. I really enjoy learning languages and frameworks like React and React Native, as well as work in MERN. I also enjoy designing the website cause I am also a website designer.
+I'm a professional Web Designer and front end developer. My passion is to work on all types of web design websites from blogs to complex e-commerce websites, admin templates, corporate, creative, entertainment, non-profit, mobile, personal, retail, specialty pages, technology, wedding, and so on . Especially online shops. I am dedicated and goal-oriented. It's my desire, wish my mission my vision to complete any work with full dedication, and fill it up at a definite time. My end goal is to acquire 100% client satisfaction by being responsive and exceeding expectations.
+I've built many, many websites over the last several years in all kinds of industries.
+I pride myself on doing quality work and maintain excellent communication. You'll always know what's going on with your project and I'm quick to reply to questions or concerns.
 
 ### Skills:  
 
-- C
-- C++
-- REACTJS  
-- Java Script
 - HTML
 - CSS
+- REACTJS  
+- Java Script
 - NODE
 - MONGODB
 - FIREBASE
