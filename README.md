@@ -20,12 +20,14 @@ I pride myself on doing quality work and maintain excellent communication. You'l
 - Boostrap
 - Material UI
 - Tailwind CSS
+- CSS GRID
+- CSS FLEX
 
 
-### Experience: 3 Years of Design and Development.
+### Experience: 2 Years of Design and Development.
 
-- 🔭 I’m currently working on https://www.fiverr.com/ 
-- 🌱 I’m currently learning c, c++, react native 
+- 🔭 I’m currently working on https://www.fiverr.com/users/mehady_hasan
+- 🌱 I’m currently learning c, c++, react native, PHP, wordpress
 - 👯 I’m looking to collaborate on who are new in this programming field. 
 - 🤔 I’m looking for help with  I’m looking for help with the senior developers for my good career. 
 - 💬 Ask me about Anything else what are interrelated with my skill. 
